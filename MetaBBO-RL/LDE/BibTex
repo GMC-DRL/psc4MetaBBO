@@ -1,0 +1,10 @@
+@article{sun2021learning,
+  title={Learning adaptive differential evolution algorithm from optimization experiences by policy gradient},
+  author={Sun, Jianyong and Liu, Xin and B{\"a}ck, Thomas and Xu, Zongben},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={25},
+  number={4},
+  pages={666--680},
+  year={2021},
+  publisher={IEEE}
+}
