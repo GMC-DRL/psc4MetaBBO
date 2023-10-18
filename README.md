@@ -2,15 +2,16 @@
 
 This respository aims to maintain a list of useful relevant papers and open source codes for MetaBBO.
 
-- [1. Survey Papers](#1-survey-papers)
-- [2. MetaBBO with Reinforcement Learning](#2-metabbo-rl)
-  - [2.1. Differential Evolution](#21-differential-evolution)
-  - [2.2. Partical Swarm Optimization](#22-Partical-swarm-optimization)
-  - [2.3. Genetic Algorithm](#23-genetic-algorithm)
-  - [2.4. Evolution Strategy](#24-evolution-strategy)
-  - [2.5. Others](#25-others)
-- [3. MetaBBO with Supervised Learning](#3-metabbo-sl)
-- [4. MetaBBO with Self-Referential Search](#4-metabbo-sr)
+- [Useful Papers and Source Codes for Meta Black-Box Optimization (MetaBBO)](#useful-papers-and-source-codes-for-meta-black-Box-optimization-metabbo)
+  - [1. Survey Papers](#1-survey-papers)
+  - [2. MetaBBO with Reinforcement Learning](#2-metabbo-rl)
+    - [2.1. Differential Evolution](#21-differential-evolution)
+    - [2.2. Partical Swarm Optimization](#22-Partical-swarm-optimization)
+    - [2.3. Genetic Algorithm](#23-genetic-algorithm)
+    - [2.4. Evolution Strategy](#24-evolution-strategy)
+    - [2.5. Others](#25-others)
+  - [3. MetaBBO with Supervised Learning](#3-metabbo-sl)
+  - [4. MetaBBO with Self-Referential Search](#4-metabbo-sr)
 
 ## Survey Papers
 
