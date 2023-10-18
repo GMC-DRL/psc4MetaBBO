@@ -1,0 +1,9 @@
+@article{li2019differential,
+  title={Differential evolution based on reinforcement learning with fitness ranking for solving multimodal multiobjective problems},
+  author={Li, Zhihui and Shi, Li and Yue, Caitong and Shang, Zhigang and Qu, Boyang},
+  journal={Swarm and Evolutionary Computation},
+  volume={49},
+  pages={234--244},
+  year={2019},
+  publisher={Elsevier}
+}
