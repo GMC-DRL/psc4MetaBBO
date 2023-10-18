@@ -1,0 +1,9 @@
+@article{tan2022differential,
+  title={Differential evolution with hybrid parameters and mutation strategies based on reinforcement learning},
+  author={Tan, Zhiping and Tang, Yu and Li, Kangshun and Huang, Huasheng and Luo, Shaoming},
+  journal={Swarm and Evolutionary Computation},
+  volume={75},
+  pages={101194},
+  year={2022},
+  publisher={Elsevier}
+}
