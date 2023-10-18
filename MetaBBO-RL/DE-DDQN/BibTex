@@ -1,9 +1,7 @@
-@article{tan2021differential,
-  title={Differential evolution with mixed mutation strategy based on deep reinforcement learning},
-  author={Tan, Zhiping and Li, Kangshun},
-  journal={Applied Soft Computing},
-  volume={111},
-  pages={107678},
-  year={2021},
-  publisher={Elsevier}
+@inproceedings{sharma2019deep,
+  title={Deep reinforcement learning based parameter control in differential evolution},
+  author={Sharma, Mudita and Komninos, Alexandros and L{\'o}pez-Ib{\'a}{\~n}ez, Manuel and Kazakov, Dimitar},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={709--717},
+  year={2019}
 }
