@@ -10,7 +10,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
     - [2.3. Genetic Algorithm](#23-genetic-algorithm)
     - [2.4. Evolution Strategy](#24-evolution-strategy)
     - [2.5. Others](#25-others)
-  - [3. MetaBBO with Supervised Learning](#3-metabbo-sl)
+  - [3. MetaBBO with Supervised Learning](#metabbo-with-supervised-learning-metabbo-sl)
   - [4. MetaBBO with Self-Referential Search](#4-metabbo-sr)
 
 ## Survey Papers
