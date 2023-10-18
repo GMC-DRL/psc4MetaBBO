@@ -13,16 +13,16 @@ This respository aims to maintain a list of useful relevant papers and open sour
   - [3. MetaBBO with Supervised Learning](#metabbo-with-supervised-learning-metabbo-sl)
   - [4. MetaBBO with Self-Referential Search](#4-metabbo-sr)
 
-## Survey Papers
+## 1. Survey Papers
 
 Chernigovskaya, Maria, Andrey Kharitonov, and Klaus Turowski. "[**A Recent Publications Survey on Reinforcement Learning for Selecting Parameters of Meta-Heuristic and Machine Learning Algorithms**](https://www.scitepress.org/Papers/2023/119543/119543.pdf)." CLOSER. 2023.
 [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:4jdFv92JE6UJ:scholar.google.com/&output=citation&scisdr=ClFw6mjsEOXkl4nv_Nw:AFWwaeYAAAAAZS_p5NzkTxf6faz97te3d01HrFs&scisig=AFWwaeYAAAAAZS_p5MLs7wpA0fzU8b3nXpq9DHw&scisf=4&ct=citation&cd=-1&hl=en)
 
 Drugan, Madalina M. "[**Reinforcement learning versus evolutionary computation: A survey on hybrid algorithms**](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Any_reference_paper_with_detailing_on_how_to_hybradize_Q-Learning_algorithm_with_Genetic_Algorithm_especially_for_a_variable_optimization_problem/attachment/60213347e501d80001b17f3e/AS%3A988921009819663%401612788550903/download/Reinforcement+learning+versus+evolutionary+computation+_+A+survey+on+hybrid+algorithms+_+Drugan2018.pdf)." Swarm and Evolutionary Computation 44 (2019): 228-246. [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:ubDobEqzKFQJ:scholar.google.com/&output=citation&scisdr=ClFw6mjsEOXkl4ntLtM:AFWwaeYAAAAAZS_rNtONrncGq42OsZYGX_5sO2c&scisig=AFWwaeYAAAAAZS_rNunOHkUDoGlMUbV702WOFEE&scisf=4&ct=citation&cd=-1&hl=en)
 
-## MetaBBO with Reinforcement Learning (MetaBBO-RL)
+## 2. MetaBBO with Reinforcement Learning (MetaBBO-RL)
 
-### Differential Evolution
+### 2.1. Differential Evolution
 
 |Algorithm|Paper|Original Repository|
 |:-:|:-:|:-:|
@@ -35,14 +35,14 @@ Drugan, Madalina M. "[**Reinforcement learning versus evolutionary computation: 
 |DE-RLFR|Li, Zhihui, et al. "[**Differential evolution based on reinforcement learning with fitness ranking for solving multimodal multiobjective problems**](https://www.sciencedirect.com/science/article/pii/S2210650218310575)." Swarm and Evolutionary Computation 49 (2019): 234-244.  [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:NapbmYYF1R8J:scholar.google.com/&output=citation&scisdr=ClFw6mjsEOXkl4n4jUg:AFWwaeYAAAAAZS_-lUjwjdqg0EG5HMGJ5BIZ8yE&scisig=AFWwaeYAAAAAZS_-lTQkIA1D_KsWdpAPr91Tfs0&scisf=4&ct=citation&cd=-1&hl=en)|-|
 
 
-### Partical Swarm Optimization
+### 2.2. Partical Swarm Optimization
 
-### Genetic Algorithm
+### 2.3. Genetic Algorithm
 
-### Evolution Strategy
+### 2.4. Evolution Strategy
 
-### Others
+### 2.5. Others
 
-## MetaBBO with Supervised Learning (MetaBBO-SL)
+## 3. MetaBBO with Supervised Learning (MetaBBO-SL)
 
-## MetaBBO with Self-Referential Search (MetaBBO-SR)
+## 4. MetaBBO with Self-Referential Search (MetaBBO-SR)
