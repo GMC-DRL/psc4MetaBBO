@@ -1,0 +1,9 @@
+@article{drugan2019reinforcement,
+  title={Reinforcement learning versus evolutionary computation: A survey on hybrid algorithms},
+  author={Drugan, Madalina M},
+  journal={Swarm and evolutionary computation},
+  volume={44},
+  pages={228--246},
+  year={2019},
+  publisher={Elsevier}
+}
