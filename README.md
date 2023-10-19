@@ -9,7 +9,8 @@ This respository aims to maintain a list of useful relevant papers and open sour
   - [2.3. Others](#23-others)
 - [3. MetaBBO with Supervised Learning](#3-metabbo-with-supervised-learning-metabbo-sl)
 - [4. MetaBBO with Self-Referential Search](#4-metabbo-with-self-referential-search-metabbo-sr)
-- [5. Benchmarks]()
+- [5. Other MetaBBO](#5-other-metabbo)
+- [6. Benchmarks](#6-benchmarks)
 
 ## 1. Survey Papers
 
@@ -64,4 +65,6 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ## 4. MetaBBO with Self-Referential Search (MetaBBO-SR)
 
-## 5. Benchmarks
+## 5. Other MetaBBO
+
+## 6. Benchmarks
