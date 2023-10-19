@@ -1,0 +1,8 @@
+@inproceedings{liu2019adaptive,
+  title={An adaptive online parameter control algorithm for particle swarm optimization based on reinforcement learning},
+  author={Liu, Yaxian and Lu, Hui and Cheng, Shi and Shi, Yuhui},
+  booktitle={2019 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={815--822},
+  year={2019},
+  organization={IEEE}
+}
