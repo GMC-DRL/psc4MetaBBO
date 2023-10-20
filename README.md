@@ -4,11 +4,11 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 - [1. Survey Papers](#1-survey-papers)
 - [2. Classic BBO](#2-classic-bbo)
-  - [2.1. Differential Evolution]
-  - [2.2. Partical Swarm Optimization]
-  - [2.3. Evolution Strategies]
-  - [2.4. Bayesian Optimization]
-  - [2.5. Others]
+  - [2.1. Differential Evolution](#21-differential-evolution)
+  - [2.2. Partical Swarm Optimization](#22-partical-swarm-optimization)
+  - [2.3. Evolution Strategies](#23-evolution-strategies)
+  - [2.4. Bayesian Optimization](#24-bayesian-optimization)
+  - [2.5. Others](#25-others)
 - [3. MetaBBO](#3-metabbo)
   - [3.1. MetaBBO with Reinforcement Learning](#31-metabbo-with-reinforcement-learning-metabbo-rl)
     - [3.1.1. Differential Evolution](#311-differential-evolution)
@@ -27,6 +27,16 @@ This respository aims to maintain a list of useful relevant papers and open sour
 |Drugan, Madalina M. "[**Reinforcement learning versus evolutionary computation: A survey on hybrid algorithms**](https://www.sciencedirect.com/science/article/abs/pii/S2210650217302766)." Swarm and Evolutionary Computation 44 (2019): 228-246.|[PDF](Survey/Drugan%20et%20al/Reinforcement%20learning%20versus%20evolutionary%20computation%20A%20survey%20on%20hybrid%20algorithms.pdf)  [BibTex](Survey/Drugan%20et%20al/BibTex)|
 
 ## 2. Classic BBO
+
+### 2.1. Differential Evolution
+
+### 2.2. Partical Swarm Optimization
+
+### 2.3. Evolution Strategies
+
+### 2.4. Bayesian Optimization
+
+### 2.5. Others
 
 ## 3. MetaBBO
 
@@ -76,9 +86,9 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
-|RNN-OI|Chen, Yutian, et al. "[**Learning to learn without gradient descent by gradient descent**](http://proceedings.mlr.press/v70/chen17e.html)." International Conference on Machine Learning. PMLR, 2017.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-OI/Learning%20to%20learn%20without%20gradient%20descent%20by%20gradient%20descent.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-OI/BibTex)|
-|RNN-Opt|TV, Vishnu, et al. "[**Meta-learning for black-box optimization**](http://proceedings.mlr.press/v70/chen17e.html)." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer International Publishing, 2019.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-Opt/Meta-learning%20for%20black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-Opt/BibTex)|
 |LTO-POMDP|Gomes, Hugo Siqueira, Benjamin Léger, and Christian Gagné. "[**Meta learning black-box population-based optimizers**](https://arxiv.org/abs/2103.03526)." arXiv preprint arXiv:2103.03526 (2021).|[LTO-POMDP](https://github.com/optimization-toolbox/meta-learning-population-based-optimizers)|[PDF](MetaBBO/MetaBBO-SL/LTO-POMDP/Meta%20learning%20black-box%20population-based%20optimizers.pdf)  [BibTex](MetaBBO/MetaBBO-SL/LTO-POMDP/BibTex)|
+|RNN-Opt|TV, Vishnu, et al. "[**Meta-learning for black-box optimization**](http://proceedings.mlr.press/v70/chen17e.html)." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer International Publishing, 2019.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-Opt/Meta-learning%20for%20black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-Opt/BibTex)|
+|RNN-OI|Chen, Yutian, et al. "[**Learning to learn without gradient descent by gradient descent**](http://proceedings.mlr.press/v70/chen17e.html)." International Conference on Machine Learning. PMLR, 2017.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-OI/Learning%20to%20learn%20without%20gradient%20descent%20by%20gradient%20descent.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-OI/BibTex)|
 
 <p align="right">
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
