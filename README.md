@@ -74,6 +74,17 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ### 3.2. MetaBBO with Supervised Learning (MetaBBO-SL)
 
+|Algorithm|Paper|Original Repository|About|
+|:-:|:-:|:-:|:-:|
+|RNN-OI|Chen, Yutian, et al. "[**Learning to learn without gradient descent by gradient descent**](http://proceedings.mlr.press/v70/chen17e.html)." International Conference on Machine Learning. PMLR, 2017.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-OI/Learning%20to%20learn%20without%20gradient%20descent%20by%20gradient%20descent.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-OI/BibTex)|
+|RNN-Opt|TV, Vishnu, et al. "[**Meta-learning for black-box optimization**](http://proceedings.mlr.press/v70/chen17e.html)." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer International Publishing, 2019.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-Opt/Meta-learning%20for%20black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-Opt/BibTex)|
+|LTO-POMDP|Gomes, Hugo Siqueira, Benjamin Léger, and Christian Gagné. "[**Meta learning black-box population-based optimizers**](https://arxiv.org/abs/2103.03526)." arXiv preprint arXiv:2103.03526 (2021).|-|[PDF](MetaBBO/MetaBBO-SL/LTO-POMDP/Meta%20learning%20black-box%20population-based%20optimizers.pdf)  [BibTex](MetaBBO/MetaBBO-SL/LTO-POMDP/BibTex)|
+
+
+<p align="right">
+<a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
+</p>
+
 ### 3.3. MetaBBO with Self-Referential Search (MetaBBO-SR)
 
 ### 3.4. Other MetaBBO
