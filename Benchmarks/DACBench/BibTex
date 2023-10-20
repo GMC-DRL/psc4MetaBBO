@@ -1,0 +1,6 @@
+@article{eimer2021dacbench,
+  title={DACBench: A benchmark library for dynamic algorithm configuration},
+  author={Eimer, Theresa and Biedenkapp, Andr{\'e} and Reimer, Maximilian and Adriaensen, Steven and Hutter, Frank and Lindauer, Marius},
+  journal={arXiv preprint arXiv:2105.08541},
+  year={2021}
+}
