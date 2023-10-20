@@ -1,0 +1,10 @@
+@article{hase2021olympus,
+  title={Olympus: a benchmarking framework for noisy optimization and experiment planning},
+  author={H{\"a}se, Florian and Aldeghi, Matteo and Hickman, Riley J and Roch, Lo{\"\i}c M and Christensen, Melodie and Liles, Elena and Hein, Jason E and Aspuru-Guzik, Al{\'a}n},
+  journal={Machine Learning: Science and Technology},
+  volume={2},
+  number={3},
+  pages={035021},
+  year={2021},
+  publisher={IOP Publishing}
+}
