@@ -1,4 +1,4 @@
-@inproceedings{lange2023discovering,
+@inproceedings{LGA,
   title={Discovering attention-based genetic algorithms via meta-black-box optimization},
   author={Lange, Robert and Schaul, Tom and Chen, Yutian and Lu, Chris and Zahavy, Tom and Dalibard, Valentin and Flennerhag, Sebastian},
   booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
