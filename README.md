@@ -80,12 +80,20 @@ This respository aims to maintain a list of useful relevant papers and open sour
 |RNN-Opt|TV, Vishnu, et al. "[**Meta-learning for black-box optimization**](http://proceedings.mlr.press/v70/chen17e.html)." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer International Publishing, 2019.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-Opt/Meta-learning%20for%20black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-Opt/BibTex)|
 |LTO-POMDP|Gomes, Hugo Siqueira, Benjamin Léger, and Christian Gagné. "[**Meta learning black-box population-based optimizers**](https://arxiv.org/abs/2103.03526)." arXiv preprint arXiv:2103.03526 (2021).|[LTO-POMDP](https://github.com/optimization-toolbox/meta-learning-population-based-optimizers)|[PDF](MetaBBO/MetaBBO-SL/LTO-POMDP/Meta%20learning%20black-box%20population-based%20optimizers.pdf)  [BibTex](MetaBBO/MetaBBO-SL/LTO-POMDP/BibTex)|
 
-
 <p align="right">
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
 ### 3.3. MetaBBO with Self-Referential Search (MetaBBO-SR)
+
+|Algorithm|Paper|Original Repository|About|
+|:-:|:-:|:-:|:-:|
+|LES|Lange, Robert, et al. "[**Discovering evolution strategies via meta-black-box optimization**](https://dl.acm.org/doi/abs/10.1145/3583133.3595822)." Proceedings of the Companion Conference on Genetic and Evolutionary Computation. 2023.|-|[PDF](MetaBBO/MetaBBO-SR/LES/Discovering%20evolution%20strategies%20via%20meta-black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SR/LES/BibTex)|
+|LGA|Lange, Robert, et al. "[**Discovering attention-based genetic algorithms via meta-black-box optimization**](https://dl.acm.org/doi/abs/10.1145/3583131.3590496)." Proceedings of the Genetic and Evolutionary Computation Conference. 2023.|-|[PDF](MetaBBO/MetaBBO-SR/LGA/Discovering%20attention-based%20genetic%20algorithms%20via%20meta-black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SR/LGA/BibTex)|
+
+<p align="right">
+<a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
+</p>
 
 ### 3.4. Other MetaBBO
 
