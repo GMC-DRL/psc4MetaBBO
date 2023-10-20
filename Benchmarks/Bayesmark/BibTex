@@ -1,0 +1,6 @@
+@manual{bayesmark,
+    title = {Bayesmark: Benchmark framework to easily compare bayesian optimization methods on real machine learning tasks},
+    author = {R.Turner and D.Eriksson},
+    url = {https://github.com/uber/bayesmark},
+    year = {2019}
+}
