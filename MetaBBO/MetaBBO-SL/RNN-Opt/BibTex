@@ -1,0 +1,8 @@
+@inproceedings{tv2019meta,
+  title={Meta-learning for black-box optimization},
+  author={TV, Vishnu and Malhotra, Pankaj and Narwariya, Jyoti and Vig, Lovekesh and Shroff, Gautam},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={366--381},
+  year={2019},
+  organization={Springer}
+}
