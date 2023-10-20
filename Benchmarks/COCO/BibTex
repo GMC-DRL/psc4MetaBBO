@@ -1,0 +1,10 @@
+@article{hansen2021coco,
+  title={COCO: A platform for comparing continuous optimizers in a black-box setting},
+  author={Hansen, Nikolaus and Auger, Anne and Ros, Raymond and Mersmann, Olaf and Tu{\v{s}}ar, Tea and Brockhoff, Dimo},
+  journal={Optimization Methods and Software},
+  volume={36},
+  number={1},
+  pages={114--144},
+  year={2021},
+  publisher={Taylor \& Francis}
+}
