@@ -1,0 +1,6 @@
+@article{eggensperger2021hpobench,
+  title={HPOBench: A collection of reproducible multi-fidelity benchmark problems for HPO},
+  author={Eggensperger, Katharina and M{\"u}ller, Philipp and Mallik, Neeratyoy and Feurer, Matthias and Sass, Ren{\'e} and Klein, Aaron and Awad, Noor and Lindauer, Marius and Hutter, Frank},
+  journal={arXiv preprint arXiv:2109.06716},
+  year={2021}
+}
