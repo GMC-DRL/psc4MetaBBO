@@ -69,10 +69,10 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ## 6. Benchmarks
 
-|Algorithm|Paper|Original Repository|About|
+|Benchmark|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
-|COCO|Hansen, Nikolaus, et al. "[**COCO: A platform for comparing continuous optimizers in a black-box setting**](https://www.tandfonline.com/doi/abs/10.1080/10556788.2020.1808977)." Optimization Methods and Software 36.1 (2021): 114-144.|[numbbo/coco](https://github.com/numbbo/coco)|[PDF](Benchmarks/COCO/COCO%20A%20platform%20for%20comparing%20continuous%20optimizers%20in%20a%20black-box%20setting.pdf)  [BibTex]()|
-|IOHprofiler (IOHexperimenter)|Doerr, Carola, et al. "[**IOHprofiler: A benchmarking and profiling tool for iterative optimization heuristics**](https://arxiv.org/abs/1810.05281)." arXiv preprint arXiv:1810.05281 (2018).<br>de Nobel, Jacob, et al. "[**Iohexperimenter: Benchmarking platform for iterative optimization heuristics**](https://direct.mit.edu/evco/article/doi/10.1162/evco_a_00342/116949)." Evolutionary Computation (2023): 1-6.|[IOHprofiler/IOHexperimenter](https://github.com/IOHprofiler/IOHexperimenter)|[PDF](Benchmarks/IOHprofiler/)  [BibTex]()|
+|COCO|Hansen, Nikolaus, et al. "[**COCO: A platform for comparing continuous optimizers in a black-box setting**](https://www.tandfonline.com/doi/abs/10.1080/10556788.2020.1808977)." Optimization Methods and Software 36.1 (2021): 114-144.|[numbbo/coco](https://github.com/numbbo/coco)|[PDF](Benchmarks/COCO/COCO%20A%20platform%20for%20comparing%20continuous%20optimizers%20in%20a%20black-box%20setting.pdf)  [BibTex](Benchmarks/COCO/BibTex)|
+|IOHprofiler (IOHexperimenter)|Doerr, Carola, et al. "[**IOHprofiler: A benchmarking and profiling tool for iterative optimization heuristics**](https://arxiv.org/abs/1810.05281)." arXiv preprint arXiv:1810.05281 (2018).<br>de Nobel, Jacob, et al. "[**Iohexperimenter: Benchmarking platform for iterative optimization heuristics**](https://direct.mit.edu/evco/article/doi/10.1162/evco_a_00342/116949)." Evolutionary Computation (2023): 1-6.|[IOHprofiler/IOHexperimenter](https://github.com/IOHprofiler/IOHexperimenter)|[PDF](Benchmarks/IOHprofiler/)  [BibTex](Benchmarks/IOHprofiler/BibTex)|
 ||||[PDF]()  [BibTex]()|
 
 <p align="right">
