@@ -1,0 +1,18 @@
+@inproceedings{kudela2021novel,
+  title={Novel zigzag-based benchmark functions for bound constrained single objective optimization},
+  author={Kudela, Jakub},
+  booktitle={2021 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={857--862},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{kudela2022new,
+  title={New benchmark functions for single-objective optimization based on a zigzag pattern},
+  author={Kudela, Jakub and Matousek, Radomil},
+  journal={IEEE Access},
+  volume={10},
+  pages={8262--8278},
+  year={2022},
+  publisher={IEEE}
+}
