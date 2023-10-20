@@ -1,0 +1,8 @@
+@inproceedings{hutter2014aclib,
+  title={AClib: A benchmark library for algorithm configuration},
+  author={Hutter, Frank and L{\'o}pez-Ib{\'a}nez, Manuel and Fawcett, Chris and Lindauer, Marius and Hoos, Holger H and Leyton-Brown, Kevin and St{\"u}tzle, Thomas},
+  booktitle={Learning and Intelligent Optimization: 8th International Conference, Lion 8, Gainesville, FL, USA, February 16-21, 2014. Revised Selected Papers 8},
+  pages={36--40},
+  year={2014},
+  organization={Springer}
+}
