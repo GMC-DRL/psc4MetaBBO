@@ -1,0 +1,8 @@
+@inproceedings{chen2017learning,
+  title={Learning to learn without gradient descent by gradient descent},
+  author={Chen, Yutian and Hoffman, Matthew W and Colmenarejo, Sergio G{\'o}mez and Denil, Misha and Lillicrap, Timothy P and Botvinick, Matt and Freitas, Nando},
+  booktitle={International Conference on Machine Learning},
+  pages={748--756},
+  year={2017},
+  organization={PMLR}
+}
