@@ -1,4 +1,4 @@
-@inproceedings{lange2023discovering,
+@inproceedings{LES,
   title={Discovering evolution strategies via meta-black-box optimization},
   author={Lange, Robert and Schaul, Tom and Chen, Yutian and Zahavy, Tom and Dalibard, Valentin and Lu, Chris and Singh, Satinder and Flennerhag, Sebastian},
   booktitle={Proceedings of the Companion Conference on Genetic and Evolutionary Computation},
