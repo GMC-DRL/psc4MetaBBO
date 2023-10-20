@@ -3,14 +3,21 @@
 This respository aims to maintain a list of useful relevant papers and open source codes for MetaBBO. Our implementations of these methods can be accessed in [MetaBox](https://github.com/GMC-DRL/MetaBox).
 
 - [1. Survey Papers](#1-survey-papers)
-- [2. MetaBBO with Reinforcement Learning](#2-metabbo-with-reinforcement-learning-metabbo-rl)
-  - [2.1. Differential Evolution](#21-differential-evolution)
-  - [2.2. Partical Swarm Optimization](#22-partical-swarm-optimization)
-  - [2.3. Others](#23-others)
-- [3. MetaBBO with Supervised Learning](#3-metabbo-with-supervised-learning-metabbo-sl)
-- [4. MetaBBO with Self-Referential Search](#4-metabbo-with-self-referential-search-metabbo-sr)
-- [5. Other MetaBBO](#5-other-metabbo)
-- [6. Benchmarks](#6-benchmarks)
+- [2. Classic BBO](#2-classic-bbo)
+  - [2.1. Differential Evolution]
+  - [2.2. Partical Swarm Optimization]
+  - [2.3. Evolution Strategies]
+  - [2.4. Bayesian Optimization]
+  - [2.5. Others]
+- [3. MetaBBO](#3-metabbo)
+  - [3.1. MetaBBO with Reinforcement Learning](#31-metabbo-with-reinforcement-learning-metabbo-rl)
+    - [3.1.1. Differential Evolution](#311-differential-evolution)
+    - [3.1.2. Partical Swarm Optimization](#312-partical-swarm-optimization)
+    - [3.1.3. Others](#313-others)
+  - [3.2. MetaBBO with Supervised Learning](#32-metabbo-with-supervised-learning-metabbo-sl)
+  - [3.3. MetaBBO with Self-Referential Search](#33-metabbo-with-self-referential-search-metabbo-sr)
+  - [3.4. Other MetaBBO](#34-other-metabbo)
+- [4. Benchmarks](#4-benchmarks)
 
 ## 1. Survey Papers
 
@@ -19,9 +26,13 @@ This respository aims to maintain a list of useful relevant papers and open sour
 |Chernigovskaya, Maria, Andrey Kharitonov, and Klaus Turowski. "[**A Recent Publications Survey on Reinforcement Learning for Selecting Parameters of Meta-Heuristic and Machine Learning Algorithms**](https://www.scitepress.org/Papers/2023/119543/119543.pdf)." CLOSER. 2023.|[PDF](Survey/Chernigovskaya%20et%20al/A%20Recent%20Publications%20Survey%20on%20Reinforcement%20Learning%20for%20Selecting%20Parameters%20of%20Meta-Heuristic%20and%20Machine%20Learning%20Algorithms.pdf)  [BibTex](Survey/Chernigovskaya%20et%20al/BibTex)|
 |Drugan, Madalina M. "[**Reinforcement learning versus evolutionary computation: A survey on hybrid algorithms**](https://www.sciencedirect.com/science/article/abs/pii/S2210650217302766)." Swarm and Evolutionary Computation 44 (2019): 228-246.|[PDF](Survey/Drugan%20et%20al/Reinforcement%20learning%20versus%20evolutionary%20computation%20A%20survey%20on%20hybrid%20algorithms.pdf)  [BibTex](Survey/Drugan%20et%20al/BibTex)|
 
-## 2. MetaBBO with Reinforcement Learning (MetaBBO-RL)
+## 2. Classic BBO
 
-### 2.1. Differential Evolution
+## 3. MetaBBO
+
+### 3.1. MetaBBO with Reinforcement Learning (MetaBBO-RL)
+
+#### 3.1.1. Differential Evolution
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
@@ -37,7 +48,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
-### 2.2. Partical Swarm Optimization
+#### 3.1.2. Partical Swarm Optimization
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
@@ -51,7 +62,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
-### 2.3. Others
+#### 3.1.3. Others
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
@@ -61,13 +72,13 @@ This respository aims to maintain a list of useful relevant papers and open sour
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
-## 3. MetaBBO with Supervised Learning (MetaBBO-SL)
+### 3.2. MetaBBO with Supervised Learning (MetaBBO-SL)
 
-## 4. MetaBBO with Self-Referential Search (MetaBBO-SR)
+### 3.3. MetaBBO with Self-Referential Search (MetaBBO-SR)
 
-## 5. Other MetaBBO
+### 3.4. Other MetaBBO
 
-## 6. Benchmarks
+## 4. Benchmarks
 
 |Benchmark|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
