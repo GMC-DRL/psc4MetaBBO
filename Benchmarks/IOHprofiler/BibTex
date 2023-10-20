@@ -1,0 +1,15 @@
+@article{doerr2018iohprofiler,
+  title={IOHprofiler: A benchmarking and profiling tool for iterative optimization heuristics},
+  author={Doerr, Carola and Wang, Hao and Ye, Furong and Van Rijn, Sander and B{\"a}ck, Thomas},
+  journal={arXiv preprint arXiv:1810.05281},
+  year={2018}
+}
+
+@article{de2023iohexperimenter,
+  title={Iohexperimenter: Benchmarking platform for iterative optimization heuristics},
+  author={de Nobel, Jacob and Ye, Furong and Vermetten, Diederick and Wang, Hao and Doerr, Carola and B{\"a}ck, Thomas},
+  journal={Evolutionary Computation},
+  pages={1--6},
+  year={2023},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+}
