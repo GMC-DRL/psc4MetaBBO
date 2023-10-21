@@ -1,0 +1,9 @@
+@inproceedings{qin2005self,
+  title={Self-adaptive differential evolution algorithm for numerical optimization},
+  author={Qin, A Kai and Suganthan, Ponnuthurai N},
+  booktitle={2005 IEEE Congress on Evolutionary Computation},
+  volume={2},
+  pages={1785--1791},
+  year={2005},
+  organization={IEEE}
+}
