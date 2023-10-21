@@ -1,0 +1,8 @@
+@inproceedings{stanovov2022nl,
+  title={NL-SHADE-LBC algorithm with linear parameter adaptation bias change for CEC 2022 Numerical Optimization},
+  author={Stanovov, Vladimir and Akhmedova, Shakhnaz and Semenkin, Eugene},
+  booktitle={2022 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={01--08},
+  year={2022},
+  organization={IEEE}
+}
