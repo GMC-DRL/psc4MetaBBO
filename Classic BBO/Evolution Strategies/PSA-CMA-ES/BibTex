@@ -1,0 +1,7 @@
+@inproceedings{nishida2018psa,
+  title={Psa-cma-es: Cma-es with population size adaptation},
+  author={Nishida, Kouhei and Akimoto, Youhei},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={865--872},
+  year={2018}
+}
