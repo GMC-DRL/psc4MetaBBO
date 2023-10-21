@@ -1,0 +1,10 @@
+@article{wang2011differential,
+  title={Differential evolution with composite trial vector generation strategies and control parameters},
+  author={Wang, Yong and Cai, Zixing and Zhang, Qingfu},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={15},
+  number={1},
+  pages={55--66},
+  year={2011},
+  publisher={IEEE}
+}
