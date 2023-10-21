@@ -1,6 +1,6 @@
 # Useful Papers and Source Codes for Meta Black-Box Optimization (MetaBBO)
 
-This respository aims to maintain a list of useful relevant papers and open source codes for MetaBBO. Our implementations of these methods can be accessed in [MetaBox](https://github.com/GMC-DRL/MetaBox).
+This respository aims to maintain a list of useful relevant papers and open source codes for MetaBBO. Our implementations of some of these methods can be accessed in [MetaBox](https://github.com/GMC-DRL/MetaBox).
 
 - [1. Survey Papers](#1-survey-papers)
 - [2. Classic BBO](#2-classic-bbo)
