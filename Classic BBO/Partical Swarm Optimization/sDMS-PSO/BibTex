@@ -1,0 +1,8 @@
+@inproceedings{liang2015self,
+  title={A self-adaptive dynamic particle swarm optimizer},
+  author={Liang, Jing J and Guo, L and Liu, R and Qu, Bo-Yang},
+  booktitle={2015 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={3206--3213},
+  year={2015},
+  organization={IEEE}
+}
