@@ -1,0 +1,8 @@
+@inproceedings{biswas2021improving,
+  title={Improving differential evolution through Bayesian hyperparameter optimization},
+  author={Biswas, Subhodip and Saha, Debanjan and De, Shuvodeep and Cobb, Adam D and Das, Swagatam and Jalaian, Brian A},
+  booktitle={2021 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={832--840},
+  year={2021},
+  organization={IEEE}
+}
