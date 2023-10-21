@@ -1,0 +1,8 @@
+@inproceedings{brest2021self,
+  title={Self-adaptive differential evolution algorithm with population size reduction for single objective bound-constrained optimization: Algorithm j21},
+  author={Brest, Janez and Mau{\v{c}}ec, Mirjam Sepesy and Bo{\v{s}}kovi{\'c}, Borko},
+  booktitle={2021 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={817--824},
+  year={2021},
+  organization={IEEE}
+}
