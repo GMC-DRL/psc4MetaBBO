@@ -1,7 +1,7 @@
 @inproceedings{LES,
-  title={Discovering evolution strategies via meta-black-box optimization},
-  author={Lange, Robert and Schaul, Tom and Chen, Yutian and Zahavy, Tom and Dalibard, Valentin and Lu, Chris and Singh, Satinder and Flennerhag, Sebastian},
-  booktitle={Proceedings of the Companion Conference on Genetic and Evolutionary Computation},
-  pages={29--30},
-  year={2023}
+title={Discovering Evolution Strategies via Meta-Black-Box Optimization},
+author={Robert Tjarko Lange and Tom Schaul and Yutian Chen and Tom Zahavy and Valentin Dalibard and Chris Lu and Satinder Singh and Sebastian Flennerhag},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=mFDU0fP3EQH}
 }
