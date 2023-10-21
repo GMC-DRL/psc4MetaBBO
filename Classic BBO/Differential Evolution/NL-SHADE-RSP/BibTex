@@ -1,0 +1,8 @@
+@inproceedings{stanovov2021nl,
+  title={NL-SHADE-RSP algorithm with adaptive archive and selective pressure for CEC 2021 numerical optimization},
+  author={Stanovov, Vladimir and Akhmedova, Shakhnaz and Semenkin, Eugene},
+  booktitle={2021 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={809--816},
+  year={2021},
+  organization={IEEE}
+}
