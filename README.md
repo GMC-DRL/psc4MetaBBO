@@ -91,6 +91,15 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ### 2.5. Others
 
+|Algorithm|Paper|Original Repository|About|
+|:-:|:-:|:-:|:-:|
+|MFEA(-II)|Gupta, Abhishek, Yew-Soon Ong, and Liang Feng. "[**Multifactorial evolution: toward evolutionary multitasking**](https://ieeexplore.ieee.org/abstract/document/7161358/)." IEEE Transactions on Evolutionary Computation 20.3 (2015): 343-357.<br>Bali, Kavitesh Kumar, et al. "[**Multifactorial evolutionary algorithm with online transfer parameter estimation: MFEA-II**](https://ieeexplore.ieee.org/abstract/document/8672822/)." IEEE Transactions on Evolutionary Computation 24.1 (2019): 69-83.|-|[PDF](Classic%20BBO/Others/MFEA/)  [BibTex](Classic%20BBO/Others/MFEA/BibTex)|
+|MOEA/D|Zhang, Qingfu, and Hui Li. "[**MOEA/D: A multiobjective evolutionary algorithm based on decomposition**](https://ieeexplore.ieee.org/abstract/document/4358754/)." IEEE Transactions on Evolutionary Computation 11.6 (2007): 712-731.|-|[PDF](Classic%20BBO/Others/MOEA-D/MOEA-D%20A%20multiobjective%20evolutionary%20algorithm%20based%20on%20decomposition.pdf)  [BibTex](Classic%20BBO/Others/MOEA-D/BibTex)|
+
+<p align="right">
+<a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
+</p>
+
 ## 3. MetaBBO
 
 ### 3.1. MetaBBO with Reinforcement Learning (MetaBBO-RL)
