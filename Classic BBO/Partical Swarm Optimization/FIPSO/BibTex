@@ -1,0 +1,10 @@
+@article{mendes2004fully,
+  title={The fully informed particle swarm: simpler, maybe better},
+  author={Mendes, Rui and Kennedy, James and Neves, Jos{\'e}},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={8},
+  number={3},
+  pages={204--210},
+  year={2004},
+  publisher={IEEE}
+}
