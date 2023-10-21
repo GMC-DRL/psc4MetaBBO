@@ -1,0 +1,7 @@
+@inproceedings{hansen2009benchmarking,
+  title={Benchmarking a BI-population CMA-ES on the BBOB-2009 function testbed},
+  author={Hansen, Nikolaus},
+  booktitle={Proceedings of the 11th Annual Conference Companion on Genetic and Evolutionary Computation Conference: late breaking papers},
+  pages={2389--2396},
+  year={2009}
+}

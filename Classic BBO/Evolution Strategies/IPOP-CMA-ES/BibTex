@@ -1,0 +1,9 @@
+@inproceedings{auger2005restart,
+  title={A restart CMA evolution strategy with increasing population size},
+  author={Auger, Anne and Hansen, Nikolaus},
+  booktitle={2005 IEEE Congress on Evolutionary Computation},
+  volume={2},
+  pages={1769--1776},
+  year={2005},
+  organization={IEEE}
+}
