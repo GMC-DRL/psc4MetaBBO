@@ -1,0 +1,8 @@
+@inproceedings{peng2009multi,
+  title={Multi-start JADE with knowledge transfer for numerical optimization},
+  author={Peng, Fei and Tang, Ke and Chen, Guoliang and Yao, Xin},
+  booktitle={2009 IEEE Congress on Evolutionary Computation},
+  pages={1889--1895},
+  year={2009},
+  organization={IEEE}
+}
