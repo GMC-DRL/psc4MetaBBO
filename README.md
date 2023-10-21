@@ -164,7 +164,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
-|LES|Lange, Robert, et al. "[**Discovering evolution strategies via meta-black-box optimization**](https://dl.acm.org/doi/abs/10.1145/3583133.3595822)." Proceedings of the Companion Conference on Genetic and Evolutionary Computation. 2023.|-|[PDF](MetaBBO/MetaBBO-SR/LES/Discovering%20evolution%20strategies%20via%20meta-black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SR/LES/BibTex)|
+|LES|Lange, Robert, et al. "[**Discovering evolution strategies via meta-black-box optimization**](https://iclr.cc/virtual/2023/poster/11005)." The Eleventh International Conference on Learning Representations. 2023.|-|[PDF](MetaBBO/MetaBBO-SR/LES/Discovering%20evolution%20strategies%20via%20meta-black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SR/LES/BibTex)|
 |LGA|Lange, Robert, et al. "[**Discovering attention-based genetic algorithms via meta-black-box optimization**](https://dl.acm.org/doi/abs/10.1145/3583131.3590496)." Proceedings of the Genetic and Evolutionary Computation Conference. 2023.|-|[PDF](MetaBBO/MetaBBO-SR/LGA/Discovering%20attention-based%20genetic%20algorithms%20via%20meta-black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SR/LGA/BibTex)|
 
 <p align="right">
