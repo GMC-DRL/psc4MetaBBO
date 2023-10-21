@@ -1,0 +1,10 @@
+@article{brest2006self,
+  title={Self-adapting control parameters in differential evolution: A comparative study on numerical benchmark problems},
+  author={Brest, Janez and Greiner, Sao and Boskovic, Borko and Mernik, Marjan and Zumer, Viljem},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={10},
+  number={6},
+  pages={646--657},
+  year={2006},
+  publisher={IEEE}
+}
