@@ -1,0 +1,10 @@
+@article{zhang2009jade,
+  title={JADE: adaptive differential evolution with optional external archive},
+  author={Zhang, Jingqiao and Sanderson, Arthur C},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={13},
+  number={5},
+  pages={945--958},
+  year={2009},
+  publisher={IEEE}
+}
