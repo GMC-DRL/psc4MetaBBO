@@ -30,6 +30,25 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ### 2.1. Differential Evolution
 
+|Algorithm|Paper|Original Repository|About|
+|:-:|:-:|:-:|:-:|
+|Vanilla DE|Storn, Rainer, and Kenneth Price "[**Differential evolution-a simple and efficient heuristic for global optimization over continuous spaces**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|jDE|Storn, Rainer, and Kenneth Price "[**Self-adapting control parameters in differential evolution: A comparative study on numerical benchmark problems**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|JADE|Storn, Rainer, and Kenneth Price "[**JADE: adaptive differential evolution with optional external archive**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|rJADE|Storn, Rainer, and Kenneth Price "[**Multi-start JADE with knowledge transfer for numerical optimization**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|jDE21|Storn, Rainer, and Kenneth Price "[**Self-adaptive differential evolution algorithm with population size reduction for single objective bound-constrained optimization: Algorithm j21**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|SHADE|Storn, Rainer, and Kenneth Price "[**Success-history based parameter adaptation for differential evolution**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|L-SHADE|Storn, Rainer, and Kenneth Price "[**Improving the search performance of SHADE using linear population size reduction**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|NL-SHADE-RSP|Storn, Rainer, and Kenneth Price "[**NL-SHADE-RSP algorithm with adaptive archive and selective pressure for CEC 2021 numerical optimization**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|NL-SHADE-LBC|Storn, Rainer, and Kenneth Price "[**NL-SHADE-LBC algorithm with linear parameter adaptation bias change for CEC 2022 Numerical Optimization**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|MadDE|Storn, Rainer, and Kenneth Price "[**Improving differential evolution through Bayesian hyperparameter optimization**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|SaDE|Storn, Rainer, and Kenneth Price "[**Self-adaptive differential evolution algorithm for numerical optimization**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+|CoDE|Storn, Rainer, and Kenneth Price "[**Differential evolution with composite trial vector generation strategies and control parameters**](https://link.springer.com/article/10.1023/a:1008202821328)." Journal of global optimization 11.4 (1997): 341.|-|[PDF](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/)  [BibTex](Classic%20BBO/Differential%20Evolution/Vanilla%20DE/BibTex)|
+
+<p align="right">
+<a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
+</p>
+
 ### 2.2. Partical Swarm Optimization
 
 ### 2.3. Evolution Strategies
