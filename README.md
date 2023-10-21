@@ -51,6 +51,18 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ### 2.2. Partical Swarm Optimization
 
+|Algorithm|Paper|Original Repository|About|
+|:-:|:-:|:-:|:-:|
+|Vanilla PSO|Kennedy, James, and Russell Eberhart. "[**Particle swarm optimization**](https://ieeexplore.ieee.org/abstract/document/488968/)." Proceedings of ICNN'95-international conference on neural networks. Vol. 4. IEEE, 1995.|-|[PDF](Classic%20BBO/Partical%20Swarm%20Optimization/Vanilla%20PSO/Particle%20swarm%20optimization.pdf)  [BibTex](Classic%20BBO/Partical%20Swarm%20Optimization/RLDMDE/BibTex)|
+|DMS-PSO|Liang, Jane-Jing, and Ponnuthurai Nagaratnam Suganthan. "[**Dynamic multi-swarm particle swarm optimizer**](https://ieeexplore.ieee.org/abstract/document/1501611/)." Proceedings 2005 IEEE Swarm Intelligence Symposium, 2005. SIS 2005.. IEEE, 2005.|-|[PDF](Classic%20BBO/Partical%20Swarm%20Optimization/DMS-PSO/Dynamic%20multi-swarm%20particle%20swarm%20optimizer.pdf)  [BibTex](Classic%20BBO/Partical%20Swarm%20Optimization/DMS-PSO/BibTex)|
+|sDMS-PSO|Liang, Jing J., et al. "[**A self-adaptive dynamic particle swarm optimizer**](https://ieeexplore.ieee.org/abstract/document/7257290/)." 2015 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2015.|-|[PDF](Classic%20BBO/Partical%20Swarm%20Optimization/sDMS-PSO/A%20self-adaptive%20dynamic%20particle%20swarm%20optimizer.pdf)  [BibTex](Classic%20BBO/Partical%20Swarm%20Optimization/sDMS-PSO/BibTex)|
+|GLPSO|Gong, Yue-Jiao, et al. "[**Genetic learning particle swarm optimization**](https://ieeexplore.ieee.org/abstract/document/7271066/)." IEEE Transactions on Cybernetics 46.10 (2015): 2277-2290.|-|[PDF](Classic%20BBO/Partical%20Swarm%20Optimization/GLPSO/Genetic%20learning%20particle%20swarm%20optimization.pdf)  [BibTex](Classic%20BBO/Partical%20Swarm%20Optimization/GLPSO/BibTex)|
+|SAHLPSO|Tao, Xinmin, et al. "[**Self-Adaptive two roles hybrid learning strategies-based particle swarm optimization**](https://www.sciencedirect.com/science/article/pii/S0020025521006988)." Information Sciences 578 (2021): 457-481.|-|[PDF](Classic%20BBO/Partical%20Swarm%20Optimization/SAHLPSO/Self-Adaptive%20two%20roles%20hybrid%20learning%20strategies-based%20particle%20swarm%20optimization.pdf)  [BibTex](Classic%20BBO/Partical%20Swarm%20Optimization/SAHLPSO/BibTex)|
+
+<p align="right">
+<a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
+</p>
+
 ### 2.3. Evolution Strategies
 
 ### 2.4. Bayesian Optimization
