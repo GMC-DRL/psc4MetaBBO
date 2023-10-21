@@ -1,0 +1,8 @@
+@inproceedings{tanabe2014improving,
+  title={Improving the search performance of SHADE using linear population size reduction},
+  author={Tanabe, Ryoji and Fukunaga, Alex S},
+  booktitle={2014 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={1658--1665},
+  year={2014},
+  organization={IEEE}
+}
