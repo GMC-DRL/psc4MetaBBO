@@ -1,0 +1,8 @@
+@inproceedings{liu2013scaling,
+  title={Scaling up covariance matrix adaptation evolution strategy using cooperative coevolution},
+  author={Liu, Jinpeng and Tang, Ke},
+  booktitle={International Conference on Intelligent Data Engineering and Automated Learning},
+  pages={350--357},
+  year={2013},
+  organization={Springer}
+}
