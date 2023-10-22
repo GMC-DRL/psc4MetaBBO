@@ -1,0 +1,6 @@
+@inproceedings{chaybouti2022meta,
+  title={Meta-learning of Black-box Solvers Using Deep Reinforcement Learning},
+  author={Chaybouti, Sofian and Dos Santos, Ludovic and Malherbe, Cedric and Virmaux, Aladin},
+  booktitle={NeurIPS 2022, MetaLearn Workshop},
+  year={2022}
+}
