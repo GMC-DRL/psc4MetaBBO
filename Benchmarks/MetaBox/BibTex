@@ -1,0 +1,7 @@
+@article{metabox,
+  title={MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning},
+  author={Zeyuan Ma and Hongshu Guo and Jiacheng Chen and Zhenrui Li and Guojun Peng and Yue-Jiao Gong and Yining Ma and Zhiguang Cao},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2023}
+}
