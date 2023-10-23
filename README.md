@@ -10,7 +10,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
     - [2.1.1. Operator Selection](211-operator-selection)
     - [2.1.2. Parameter Contorl](#212-parameter-contorl)
     - [2.1.3. Operator \& Parameter](#213-operator--parameter)
-    - [2.1.4. End to End](#214-end-to-end)
+    - [2.1.4. Others](#214-others)
   - [2.2. MetaBBO with Supervised Learning](#22-metabbo-with-supervised-learning-metabbo-sl)
   - [2.3. MetaBBO with Self-Referential Search](#23-metabbo-with-self-referential-search-metabbo-sr)
   - [2.4. Other MetaBBO](#24-other-metabbo)
@@ -102,7 +102,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
-#### 2.1.4. End to End
+#### 2.1.4. Others
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
