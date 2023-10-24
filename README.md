@@ -7,9 +7,10 @@ This respository aims to maintain a list of useful relevant papers and open sour
   - [1.2. Benchmarks](#12-benchmarks)
 - [2. MetaBBO](#2-metabbo)
   - [2.1. MetaBBO with Reinforcement Learning](#21-metabbo-with-reinforcement-learning-metabbo-rl)
-    - [2.1.1. Differential Evolution](#211-differential-evolution)
-    - [2.1.2. Partical Swarm Optimization](#212-partical-swarm-optimization)
-    - [2.1.3. Others](#213-others)
+    - [2.1.1. Operator Selection](211-operator-selection)
+    - [2.1.2. Parameter Contorl](#212-parameter-contorl)
+    - [2.1.3. Operator \& Parameter](#213-operator--parameter)
+    - [2.1.4. Others](#214-others)
   - [2.2. MetaBBO with Supervised Learning](#22-metabbo-with-supervised-learning-metabbo-sl)
   - [2.3. MetaBBO with Self-Referential Search](#23-metabbo-with-self-referential-search-metabbo-sr)
   - [2.4. Other MetaBBO](#24-other-metabbo)
@@ -34,6 +35,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |Benchmark|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
+|MetaBox|Ma, Zeyuan, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." Advances in Neural Information Processing Systems 36 (2023).|[GMC-DRL/MetaBox]( https://github.com/GMC-DRL/MetaBox)|[PDF](Benchmarks/MetaBox/MetaBox%20A%20Benchmark%20Platform%20for%20Meta-Black-Box%20Optimization%20with%20Reinforcement%20Learning.pdf)  [BibTex](Benchmarks/MetaBox/BibTex)|
 |COCO|Hansen, Nikolaus, et al. "[**COCO: A platform for comparing continuous optimizers in a black-box setting**](https://www.tandfonline.com/doi/abs/10.1080/10556788.2020.1808977)." Optimization Methods and Software 36.1 (2021): 114-144.|[numbbo/coco](https://github.com/numbbo/coco)|[PDF](Benchmarks/COCO/COCO%20A%20platform%20for%20comparing%20continuous%20optimizers%20in%20a%20black-box%20setting.pdf)  [BibTex](Benchmarks/COCO/BibTex)|
 |IOHprofiler (IOHexperimenter)|Doerr, Carola, et al. "[**IOHprofiler: A benchmarking and profiling tool for iterative optimization heuristics**](https://arxiv.org/abs/1810.05281)." arXiv preprint arXiv:1810.05281 (2018).<br>de Nobel, Jacob, et al. "[**Iohexperimenter: Benchmarking platform for iterative optimization heuristics**](https://direct.mit.edu/evco/article/doi/10.1162/evco_a_00342/116949)." Evolutionary Computation (2023): 1-6.|[IOHprofiler/<br>IOHexperimenter](https://github.com/IOHprofiler/IOHexperimenter)|[PDF](Benchmarks/IOHprofiler/)  [BibTex](Benchmarks/IOHprofiler/BibTex)|
 |AClib|Hutter, Frank, et al. "[**AClib: A benchmark library for algorithm configuration**](https://link.springer.com/chapter/10.1007/978-3-319-09584-4_4)." Learning and Intelligent Optimization: 8th International Conference. Revised Selected Papers 8. Springer International Publishing, 2014.|[aclib.net](https://www.aclib.net/)|[PDF](Benchmarks/AClib/AClib%20A%20benchmark%20library%20for%20algorithm%20configuration.pdf)  [BibTex](Benchmarks/AClib/BibTex)|
@@ -60,14 +62,12 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ### 2.1. MetaBBO with Reinforcement Learning (MetaBBO-RL)
 
-#### 2.1.1. Differential Evolution
+#### 2.1.1. Operator Selection
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
 |RLDMDE|Yang, Qingyong, et al. "[**Dynamic multi-strategy integrated differential evolution algorithm based on reinforcement learning for optimization problems**](https://link.springer.com/article/10.1007/s40747-023-01243-9)." Complex & Intelligent Systems (2023): 1-33.|-|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/RLDMDE/Dynamic%20multi-strategy%20integrated%20differential%20evolution%20algorithm%20based%20on%20reinforcement%20learning%20for%20optimization%20problems.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/RLDMDE/BibTex)|
-|RL-HPSDE|Tan, Zhiping, et al. "[**Differential evolution with hybrid parameters and mutation strategies based on reinforcement learning**](https://www.sciencedirect.com/science/article/pii/S2210650222001602)." Swarm and Evolutionary Computation 75 (2022): 101194.|-|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/RL-HPSDE/Differential%20evolution%20with%20hybrid%20parameters%20and%20mutation%20strategies%20based%20on%20reinforcement%20learning.pdf)   [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/RL-HPSDE/BibTex)|
 |DE-DQN|Tan, Zhiping, and Kangshun Li. "[**Differential evolution with mixed mutation strategy based on deep reinforcement learning**](https://www.sciencedirect.com/science/article/abs/pii/S1568494621005998)." Applied Soft Computing 111 (2021): 107678.|-|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/DE-DQN/Differential%20evolution%20with%20mixed%20mutation%20strategy%20based%20on%20deep%20reinforcement%20learning.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/DE-DQN/BibTex)|
-|LDE|Sun, Jianyong, et al. "[**Learning Adaptive Differential Evolution Algorithm from Optimization Experiences by Policy Gradient**](https://ieeexplore.ieee.org/abstract/document/9359652)." IEEE Transactions on Evolutionary Computation 25.4 (2021): 666-680.|[yierh/LDE](https://github.com/yierh/LDE)|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/LDE/Learning%20Adaptive%20Differential%20Evolution%20Algorithm%20from%20Optimization%20Experiences%20by%20Policy%20Gradient.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/LDE/BibTex)|
 |MARLwCMA|Sallam, Karam M., et al. "[**Evolutionary framework with reinforcement learning-based mutation adaptation**](https://ieeexplore.ieee.org/abstract/document/9239320/)." IEEE Access 8 (2020): 194045-194071.|-|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/MARLwCMA/Evolutionary%20framework%20with%20reinforcement%20learning-based%20mutation%20adaptation.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/MARLwCMA/BibTex)|
 |DE-DDQN|Sharma, Mudita, et al. "[**Deep reinforcement learning based parameter control in differential evolution**](https://dl.acm.org/doi/abs/10.1145/3321707.3321813)." Proceedings of the Genetic and Evolutionary Computation Conference. 2019.|[mudita11/DE-DDQN](https://github.com/mudita11/DE-DDQN)|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/DE-DDQN/Deep%20reinforcement%20learning%20based%20parameter%20control%20in%20differential%20evolution.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/DE-DDQN/BibTex)|
 |DE-RLFR|Li, Zhihui, et al. "[**Differential evolution based on reinforcement learning with fitness ranking for solving multimodal multiobjective problems**](https://www.sciencedirect.com/science/article/pii/S2210650218310575)." Swarm and Evolutionary Computation 49 (2019): 234-244.|-|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/DE-RLFR/Differential%20evolution%20based%20on%20reinforcement%20learning%20with%20fitness%20ranking%20for%20solving%20multimodal%20multiobjective%20problems.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/DE-RLFR/BibTex)|
@@ -76,10 +76,11 @@ This respository aims to maintain a list of useful relevant papers and open sour
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
-#### 2.1.2. Partical Swarm Optimization
+#### 2.1.2. Parameter Contorl
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
+|LDE|Sun, Jianyong, et al. "[**Learning Adaptive Differential Evolution Algorithm from Optimization Experiences by Policy Gradient**](https://ieeexplore.ieee.org/abstract/document/9359652)." IEEE Transactions on Evolutionary Computation 25.4 (2021): 666-680.|[yierh/LDE](https://github.com/yierh/LDE)|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/LDE/Learning%20Adaptive%20Differential%20Evolution%20Algorithm%20from%20Optimization%20Experiences%20by%20Policy%20Gradient.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/LDE/BibTex)|
 |RL-PSO|Wu, Di, and G. Gary Wang. "[**Employing reinforcement learning to enhance particle swarm optimization methods**](https://www.tandfonline.com/doi/abs/10.1080/0305215X.2020.1867120)." Engineering Optimization 54.2 (2022): 329-348.|-|[PDF](MetaBBO/MetaBBO-RL/Partical%20Swarm%20Optimization/RL-PSO/Employing%20reinforcement%20learning%20to%20enhance%20particle%20swarm%20optimization%20methods.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Partical%20Swarm%20Optimization/RL-PSO/BibTex)|
 |RLEPSO|Yin, Shiyuan, et al. "[**RLEPSO: Reinforcement learning based Ensemble particle swarm optimizer**](https://dl.acm.org/doi/abs/10.1145/3508546.3508599)." Proceedings of the 2021 4th International Conference on Algorithms, Computing and Artificial Intelligence. 2021.|-|[PDF](MetaBBO/MetaBBO-RL/Partical%20Swarm%20Optimization/RLEPSO/RLEPSO%20Reinforcement%20learning%20based%20Ensemble%20particle%20swarm%20optimizer.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Partical%20Swarm%20Optimization/RLEPSO/BibTex)|
 |QLPSO|Xu, Yue, and Dechang Pi. "[**A reinforcement learning-based communication topology in particle swarm optimization**](https://link.springer.com/article/10.1007/s00521-019-04527-9)." Neural Computing and Applications 32 (2020): 10007-10032.|-|[PDF](MetaBBO/MetaBBO-RL/Partical%20Swarm%20Optimization/QLPSO/A%20reinforcement%20learning-based%20communication%20topology%20in%20particle%20swarm%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Partical%20Swarm%20Optimization/QLPSO/BibTex)|
@@ -90,12 +91,23 @@ This respository aims to maintain a list of useful relevant papers and open sour
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
-#### 2.1.3. Others
+#### 2.1.3. Operator \& Parameter
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
 |MADAC|Xue, Ke, et al. "[**Multi-agent dynamic algorithm configuration**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7f02b39c0424cc4a422994289ca03e46-Abstract-Conference.html)." Advances in Neural Information Processing Systems 35 (2022): 20147-20161.|-|[PDF](MetaBBO/MetaBBO-RL/Others/MADAC/Multi-agent%20dynamic%20algorithm%20configuration.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Others/MADAC/BibTex)|
+|RL-HPSDE|Tan, Zhiping, et al. "[**Differential evolution with hybrid parameters and mutation strategies based on reinforcement learning**](https://www.sciencedirect.com/science/article/pii/S2210650222001602)." Swarm and Evolutionary Computation 75 (2022): 101194.|-|[PDF](MetaBBO/MetaBBO-RL/Differential%20Evolution/RL-HPSDE/Differential%20evolution%20with%20hybrid%20parameters%20and%20mutation%20strategies%20based%20on%20reinforcement%20learning.pdf)   [BibTex](MetaBBO/MetaBBO-RL/Differential%20Evolution/RL-HPSDE/BibTex)|
+
+<p align="right">
+<a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
+</p>
+
+#### 2.1.4. Others
+
+|Algorithm|Paper|Original Repository|About|
+|:-:|:-:|:-:|:-:|
 |MELBA|Chaybouti, Sofian, et al. "[**Meta-learning of Black-box Solvers Using Deep Reinforcement Learning**](https://hal.science/hal-03930140/)." NeurIPS 2022, MetaLearn Workshop. 2022.|-|[PDF](MetaBBO/MetaBBO-RL/Others/MELBA/Meta-learning%20of%20Black-box%20Solvers%20Using%20Deep%20Reinforcement%20Learning.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Others/MELBA/BibTex)|
+|LTO-POMDP|Gomes, Hugo Siqueira, Benjamin Léger, and Christian Gagné. "[**Meta learning black-box population-based optimizers**](https://arxiv.org/abs/2103.03526)." arXiv preprint arXiv:2103.03526 (2021).|[LTO-POMDP](https://github.com/optimization-toolbox/meta-learning-population-based-optimizers)|[PDF](MetaBBO/MetaBBO-SL/LTO-POMDP/Meta%20learning%20black-box%20population-based%20optimizers.pdf)  [BibTex](MetaBBO/MetaBBO-SL/LTO-POMDP/BibTex)|
 
 <p align="right">
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
@@ -105,7 +117,6 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
-|LTO-POMDP|Gomes, Hugo Siqueira, Benjamin Léger, and Christian Gagné. "[**Meta learning black-box population-based optimizers**](https://arxiv.org/abs/2103.03526)." arXiv preprint arXiv:2103.03526 (2021).|[LTO-POMDP](https://github.com/optimization-toolbox/meta-learning-population-based-optimizers)|[PDF](MetaBBO/MetaBBO-SL/LTO-POMDP/Meta%20learning%20black-box%20population-based%20optimizers.pdf)  [BibTex](MetaBBO/MetaBBO-SL/LTO-POMDP/BibTex)|
 |RNN-Opt|TV, Vishnu, et al. "[**Meta-learning for black-box optimization**](http://proceedings.mlr.press/v70/chen17e.html)." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Cham: Springer International Publishing, 2019.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-Opt/Meta-learning%20for%20black-box%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-Opt/BibTex)|
 |RNN-OI|Chen, Yutian, et al. "[**Learning to learn without gradient descent by gradient descent**](http://proceedings.mlr.press/v70/chen17e.html)." International Conference on Machine Learning. PMLR, 2017.|-|[PDF](MetaBBO/MetaBBO-SL/RNN-OI/Learning%20to%20learn%20without%20gradient%20descent%20by%20gradient%20descent.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RNN-OI/BibTex)|
 
