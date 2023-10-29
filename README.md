@@ -7,7 +7,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
   - [1.2. Benchmarks](#12-benchmarks)
 - [2. MetaBBO](#2-metabbo)
   - [2.1. MetaBBO with Reinforcement Learning](#21-metabbo-with-reinforcement-learning-metabbo-rl)
-    - [2.1.1. Operator Selection](211-operator-selection)
+    - [2.1.1. Operator Selection](#211-operator-selection)
     - [2.1.2. Parameter Contorl](#212-parameter-contorl)
     - [2.1.3. Operator \& Parameter](#213-operator--parameter)
     - [2.1.4. Others](#214-others)
