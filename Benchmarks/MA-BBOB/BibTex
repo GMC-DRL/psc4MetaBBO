@@ -1,0 +1,6 @@
+@article{vermetten2023ma,
+  title={MA-BBOB: A Problem Generator for Black-Box Optimization Using Affine Combinations and Shifts},
+  author={Vermetten, Diederick and Ye, Furong and B{\"a}ck, Thomas and Doerr, Carola},
+  journal={arXiv preprint arXiv:2312.11083},
+  year={2023}
+}
