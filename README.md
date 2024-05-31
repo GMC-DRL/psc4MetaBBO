@@ -153,6 +153,8 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 ### 2.4. MetaBBO with LLMs
 
+|Algorithm|Paper|Original Repository|About|
+|:-:|:-:|:-:|:-:|
 |-|Pluhacek, Michal, et al. "[**Leveraging large language models for the generation of novel metaheuristic optimization algorithms**](https://dl.acm.org/doi/abs/10.1145/3583133.3596401?casa_token=BbFUg5AKwPYAAAAA:AVnEru8jaHlfvs7tgYhiY8Qr4HBBvKTQxWA8xshnf2cdUSXfr6nlBQs6q0epy2iqw8-5m1RZ5VPW)." Proceedings of the Companion Conference on Genetic and Evolutionary Computation. 2023.|-|[PDF](MetaBBO/MetaBBO-LLMs/Pluhacek/Leveraging%20Large%20Language%20Models%20for%20the%20Generation%20of%20Novel%20Metaheuristic%20Optimization%20Algorithms.pdf)  [BibTex](MetaBBO/MetaBBO-LLMs/Pluhacek/BibTex)|
 
 
