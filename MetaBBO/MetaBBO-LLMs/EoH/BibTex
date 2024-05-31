@@ -1,0 +1,7 @@
+@inproceedings{fei2024eoh,
+    title={Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model},
+    author={Fei Liu and Xialiang Tong and Mingxuan Yuan and Xi Lin and Fu Luo and Zhenkun Wang and Zhichao Lu and Qingfu Zhang},
+    booktitle={ICML},
+    year={2024},
+    url={https://arxiv.org/abs/2401.02051}
+}
