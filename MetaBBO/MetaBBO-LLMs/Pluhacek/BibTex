@@ -1,0 +1,7 @@
+@inproceedings{pluhacek2023leveraging,
+  title={Leveraging large language models for the generation of novel metaheuristic optimization algorithms},
+  author={Pluhacek, Michal and Kazikova, Anezka and Kadavy, Tomas and Viktorin, Adam and Senkerik, Roman},
+  booktitle={Proceedings of the Companion Conference on Genetic and Evolutionary Computation},
+  pages={1812--1820},
+  year={2023}
+}
