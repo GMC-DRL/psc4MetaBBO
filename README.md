@@ -14,7 +14,8 @@ This respository aims to maintain a list of useful relevant papers and open sour
     - [2.1.5. Others](#215-others)
   - [2.2. MetaBBO with Supervised Learning](#22-metabbo-with-supervised-learning-metabbo-sl)
   - [2.3. MetaBBO with Self-Referential Search](#23-metabbo-with-self-referential-search-metabbo-sr)
-  - [2.4. Other MetaBBO](#24-other-metabbo)
+  - [2.4. MetaBBO with LLMs](#24-metabbo-with-llms)
+  - [2.5. Other MetaBBO](#25-other-metabbo)
 - [3. Classic BBO](#3-classic-bbo)
   - [3.1. Differential Evolution](#31-differential-evolution)
   - [3.2. Partical Swarm Optimization](#32-partical-swarm-optimization)
@@ -150,7 +151,16 @@ This respository aims to maintain a list of useful relevant papers and open sour
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
 </p>
 
-### 2.4. Other MetaBBO
+### 2.4. MetaBBO with LLMs
+
+|-|Pluhacek, Michal, et al. "[**Leveraging large language models for the generation of novel metaheuristic optimization algorithms**](https://dl.acm.org/doi/abs/10.1145/3583133.3596401?casa_token=BbFUg5AKwPYAAAAA:AVnEru8jaHlfvs7tgYhiY8Qr4HBBvKTQxWA8xshnf2cdUSXfr6nlBQs6q0epy2iqw8-5m1RZ5VPW)." Proceedings of the Companion Conference on Genetic and Evolutionary Computation. 2023.|-|[PDF](MetaBBO/MetaBBO-LLMs/Pluhacek/Leveraging%20Large%20Language%20Models%20for%20the%20Generation%20of%20Novel%20Metaheuristic%20Optimization%20Algorithms.pdf)  [BibTex](MetaBBO/MetaBBO-LLMs/Pluhacek/BibTex)|
+
+
+<p align="right">
+<a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
+</p>
+
+### 2.5. Other MetaBBO
 
 ## 3. Classic BBO
 
