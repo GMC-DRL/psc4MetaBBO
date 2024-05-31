@@ -1,6 +1,6 @@
-@article{liu2023large,
-  title={Large language models as evolutionary optimizers},
-  author={Liu, Shengcai and Chen, Caishun and Qu, Xinghua and Tang, Ke and Ong, Yew-Soon},
-  journal={arXiv preprint arXiv:2310.19046},
+@article{yang2023large,
+  title={Large language models as optimizers},
+  author={Yang, Chengrun and Wang, Xuezhi and Lu, Yifeng and Liu, Hanxiao and Le, Quoc V and Zhou, Denny and Chen, Xinyun},
+  journal={arXiv preprint arXiv:2309.03409},
   year={2023}
 }
