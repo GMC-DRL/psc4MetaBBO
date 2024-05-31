@@ -1,0 +1,6 @@
+@inproceedings{zhang2023using,
+  title={Using Large Language Models for Hyperparameter Optimization},
+  author={Zhang, Michael R and Desai, Nishkrit and Bae, Juhan and Lorraine, Jonathan and Ba, Jimmy},
+  booktitle={NeurIPS 2023 Foundation Models for Decision Making Workshop},
+  year={2023}
+}
