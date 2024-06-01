@@ -1,0 +1,6 @@
+@article{ma2024llamoco,
+  title={LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation},
+  author={Ma, Zeyuan and Guo, Hongshu and Chen, Jiacheng and Peng, Guojun and Cao, Zhiguang and Ma, Yining and Gong, Yue-Jiao},
+  journal={arXiv preprint arXiv:2403.01131},
+  year={2024}
+}
