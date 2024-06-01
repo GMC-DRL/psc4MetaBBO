@@ -1,0 +1,9 @@
+@article{hu2023deep,
+  title={Deep reinforcement learning assisted co-evolutionary differential evolution for constrained optimization},
+  author={Hu, Zhenzhen and Gong, Wenyin and Pedrycz, Witold and Li, Yanchi},
+  journal={Swarm and Evolutionary Computation},
+  volume={83},
+  pages={101387},
+  year={2023},
+  publisher={Elsevier}
+}
