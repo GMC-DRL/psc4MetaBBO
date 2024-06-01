@@ -1,0 +1,8 @@
+@article{lange2023neuroevobench,
+  title={Neuroevobench: Benchmarking evolutionary optimizers for deep learning applications},
+  author={Lange, Robert and Tang, Yujin and Tian, Yingtao},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  pages={32160--32172},
+  year={2023}
+}
