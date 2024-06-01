@@ -121,9 +121,10 @@ This respository aims to maintain a list of useful relevant papers and open sour
 </p>
 
 #### 2.1.5. Others
- "." 
+
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
+|ALDes|Zhao, Qi, et al. "[**Automated Metaheuristic Algorithm Design with Autoregressive Learning**](https://arxiv.org/abs/2405.03419)." arXiv preprint arXiv:2405.03419 (2024).|-|[PDF](MetaBBO/MetaBBO-RL/Others/ALDes/Automated%20Metaheuristic%20Algorithm%20Design%20with%20Autoregressive%20Learning.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Others/ALDes/BibTex)|
 |RL-DAS|Guo, Hongshu, et al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708/)." IEEE Transactions on Systems, Man, and Cybernetics: Systems (2024).|-|[PDF](MetaBBO/MetaBBO-RL/Others/RL-DAS/Deep%20Reinforcement%20Learning%20for%20Dynamic%20Algorithm%20Selection%20A%20Proof-of-Principle%20Study%20on%20Differential%20Evolution.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Others/RL-DAS/BibTex)|
 |AGSEA|Shao, Shuai, Ye Tian, and Xingyi Zhang. "[**Deep reinforcement learning assisted automated guiding vector selection for large-scale sparse multi-objective optimization**](https://www.sciencedirect.com/science/article/pii/S2210650224001445)." Swarm and Evolutionary Computation 88 (2024): 101606.|-|[PDF](MetaBBO/MetaBBO-RL/Others/AGSEA/Deep%20Reinforcement%20Learning%20Assisted%20Automated%20Guiding%20Vector%20Selection%20for%20Large-scale%20Sparse%20Multi-objective%20Optimization.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Others/AGSEA/BibTex)|
 |MSORL|Wang, Xujie, et al. "[**A multi-swarm optimizer with a reinforcement learning mechanism for large-scale optimization**](https://www.sciencedirect.com/science/article/pii/S2210650224000191)." Swarm and Evolutionary Computation (2024): 101486.|-|[PDF](MetaBBO/MetaBBO-RL/Others/MSORL/A%20multi-swarm%20optimizer%20with%20a%20reinforcement%20learning%20mechanism%20for%20large-scale%20optimization.pdf)  [BibTex](MetaBBO/MetaBBO-RL/Others/MSORL/BibTex)|
@@ -174,6 +175,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 |-|Zhang, Michael R., et al. "[**Using Large Language Models for Hyperparameter Optimization**](https://openreview.net/forum?id=FUdZ6HEOre)." NeurIPS 2023 Foundation Models for Decision Making Workshop. 2023.|-|[PDF](MetaBBO/MetaBBO-LLMs/zhang2023using/Using%20Large%20Language%20Models%20for%20Hyperparameter%20Optimization.pdf)  [BibTex](MetaBBO/MetaBBO-LLMs/zhang2023using/BibTex)|
 |EvoPrompt|Guo, Qingyan, et al. "[**Connecting large language models with evolutionary algorithms yields powerful prompt optimizers**](https://arxiv.org/abs/2309.08532)." arXiv preprint arXiv:2309.08532 (2023).|[beeevita/EvoPrompt](https://github.com/beeevita/EvoPrompt)|[PDF](MetaBBO/MetaBBO-LLMs/EvoPrompt/Connecting%20large%20language%20models%20with%20evolutionary%20algorithms%20yields%20powerful%20prompt%20optimizers.pdf)  [BibTex](MetaBBO/MetaBBO-LLMs/EvoPrompt/BibTex)|
 
+See also [FeiLiu36/LLM4Opt](https://github.com/FeiLiu36/LLM4Opt) and [jxzhangjhu/Awesome-LLM-Prompt-Optimization](https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization).
 
 <p align="right">
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
