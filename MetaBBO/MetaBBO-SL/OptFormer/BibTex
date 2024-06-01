@@ -1,0 +1,8 @@
+@article{chen2022towards,
+  title={Towards learning universal hyperparameter optimizers with transformers},
+  author={Chen, Yutian and Song, Xingyou and Lee, Chansoo and Wang, Zi and Zhang, Richard and Dohan, David and Kawakami, Kazuya and Kochanski, Greg and Doucet, Arnaud and Ranzato, Marc'aurelio and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={32053--32068},
+  year={2022}
+}
