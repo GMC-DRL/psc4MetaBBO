@@ -1,0 +1,9 @@
+@article{li2023reinforcement,
+  title={Reinforcement learning-based particle swarm optimization with neighborhood differential mutation strategy},
+  author={Li, Wei and Liang, Peng and Sun, Bo and Sun, Yafeng and Huang, Ying},
+  journal={Swarm and Evolutionary Computation},
+  volume={78},
+  pages={101274},
+  year={2023},
+  publisher={Elsevier}
+}
