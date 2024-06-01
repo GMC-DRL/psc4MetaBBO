@@ -1,0 +1,9 @@
+@article{liao2024differential,
+  title={Differential evolution based on strategy adaptation and deep reinforcement learning for multimodal optimization problems},
+  author={Liao, Zuowen and Pang, Qishuo and Gu, Qiong},
+  journal={Swarm and Evolutionary Computation},
+  volume={87},
+  pages={101568},
+  year={2024},
+  publisher={Elsevier}
+}
