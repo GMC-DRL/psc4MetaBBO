@@ -1,0 +1,7 @@
+@article{chen2024evoprompting,
+  title={Evoprompting: Language models for code-level neural architecture search},
+  author={Chen, Angelica and Dohan, David and So, David},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
