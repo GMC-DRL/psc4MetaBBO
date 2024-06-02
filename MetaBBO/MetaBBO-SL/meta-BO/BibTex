@@ -1,0 +1,7 @@
+@article{maraval2024end,
+  title={End-to-end meta-Bayesian optimisation with transformer neural processes},
+  author={Maraval, Alexandre and Zimmer, Matthieu and Grosnit, Antoine and Bou Ammar, Haitham},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
