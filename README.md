@@ -145,7 +145,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 </p>
 
 ### 2.2. MetaBBO with Supervised Learning (MetaBBO-SL)
- "." 
+
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
 |RIBBO|Song, Lei, et al. "[**Reinforced In-Context Black-Box Optimization**](https://arxiv.org/abs/2402.17423)." arXiv preprint arXiv:2402.17423 (2024).|[songlei00/RIBBO](https://github.com/songlei00/RIBBO)|[PDF](MetaBBO/MetaBBO-SL/RIBBO/Reinforced%20In-Context%20Black-Box%20Optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RIBBO/BibTex)|
