@@ -1,0 +1,10 @@
+@article{gao2023efficient,
+  title={An efficient evolutionary algorithm based on deep reinforcement learning for large-scale sparse multiobjective optimization},
+  author={Gao, Mengqi and Feng, Xiang and Yu, Huiqun and Li, Xiuquan},
+  journal={Applied Intelligence},
+  volume={53},
+  number={18},
+  pages={21116--21139},
+  year={2023},
+  publisher={Springer}
+}
