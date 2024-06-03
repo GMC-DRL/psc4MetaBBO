@@ -151,6 +151,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
+|LEO|Yu, Peiyu, et al. "[**Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space**](https://arxiv.org/abs/2405.16730)." arXiv preprint arXiv:2405.16730 (2024).|-|[PDF](MetaBBO/MetaBBO-SL/LEO/Latent%20Energy-Based%20Odyssey%20Black-Box%20Optimization%20via%20Expanded%20Exploration%20in%20the%20Energy-Based%20Latent%20Space.pdf)  [BibTex](MetaBBO/MetaBBO-SL/LEO/BibTex)|
 |RIBBO|Song, Lei, et al. "[**Reinforced In-Context Black-Box Optimization**](https://arxiv.org/abs/2402.17423)." arXiv preprint arXiv:2402.17423 (2024).|[songlei00/RIBBO](https://github.com/songlei00/RIBBO)|[PDF](MetaBBO/MetaBBO-SL/RIBBO/Reinforced%20In-Context%20Black-Box%20Optimization.pdf)  [BibTex](MetaBBO/MetaBBO-SL/RIBBO/BibTex)|
 |NAP|Maraval, Alexandre, et al. "[**End-to-end meta-Bayesian optimisation with transformer neural processes**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2561721d0ca69bab22b749cfc4f48f6c-Abstract-Conference.html)." Advances in Neural Information Processing Systems 36 (2024).|-|[PDF](MetaBBO/MetaBBO-SL/NAP/End-to-end%20meta-Bayesian%20optimisation%20with%20transformer%20neural%20processes.pdf)  [BibTex](MetaBBO/MetaBBO-SL/NAP/BibTex)|
 |OptFormer|Chen, Yutian, et al. "[**Towards learning universal hyperparameter optimizers with transformers**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf6501108fced72ee5c47e2151c4e153-Abstract-Conference.html)." Advances in Neural Information Processing Systems 35 (2022): 32053-32068.|[google-research/optformer](https://github.com/google-research/optformer)|[PDF](MetaBBO/MetaBBO-SL/OptFormer/Towards%20learning%20universal%20hyperparameter%20optimizers%20with%20transformers.pdf)  [BibTex](MetaBBO/MetaBBO-SL/OptFormer/BibTex)|
@@ -174,7 +175,7 @@ This respository aims to maintain a list of useful relevant papers and open sour
 </p>
 
 ### 2.4. MetaBBO with LLMs
- "." 
+
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
 |LLaMoCo|Ma, Zeyuan, et al. "[**LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**](https://arxiv.org/abs/2403.01131)." arXiv preprint arXiv:2403.01131 (2024).|[LLaMoCo-722A](https://anonymous.4open.science/r/LLaMoCo-722A)|[PDF](MetaBBO/MetaBBO-LLMs/LLaMoCo/LLaMoCo%20Instruction%20Tuning%20of%20Large%20Language%20Models%20for%20Optimization%20Code%20Generation.pdf)  [BibTex](MetaBBO/MetaBBO-LLMs/LLaMoCo/BibTex)|
