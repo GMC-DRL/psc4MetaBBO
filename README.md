@@ -269,7 +269,7 @@ See also [FeiLiu36/LLM4Opt](https://github.com/FeiLiu36/LLM4Opt) and [jxzhangjhu
 |Algorithm|Paper|Original Repository|About|
 |:-:|:-:|:-:|:-:|
 |BO|Snoek, Jasper, Hugo Larochelle, and Ryan P. Adams. "[**Practical bayesian optimization of machine learning algorithms**](https://proceedings.neurips.cc/paper/2012/hash/05311655a15b75fab86956663e1819cd-Abstract.html)." Advances in Neural Information Processing Systems 25 (2012).|-|[PDF](Classic%20BBO/Bayesian%20Optimization/BO/Practical%20bayesian%20optimization%20of%20machine%20learning%20algorithms.pdf)  [BibTex](Classic%20BBO/Bayesian%20Optimization/BO/BibTex)|
-|SMAC3|Lindauer, Marius, et al. "[**SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization**](https://jmlr.org/papers/v23/21-0888.html)." The Journal of Machine Learning Research 23.1 (2022): 2475-2483.|[automl/SMAC3](https://github.com/automl/SMAC3)|[PDF](Classic%20BBO/Bayesian%20Optimization/SMAC3/SMAC3%20A%20Versatile%20Bayesian%20Optimization%20Package%20for%20Hyperparameter%20Optimization.pdf)  [BibTex](Classic%20BBO/Bayesian%20Optimization/SMAC3/BibTex)|
+|SMAC3|Lindauer, Marius, et al. "[**SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization**](https://jmlr.org/papers/v23/21-0888.html)." The Journal of Machine Learning Research 23.1 (2022): 2475-2483.|[automl/SMAC3](https://github.com/automl/SMAC3)|[PDF](Classic%20BBO/Bayesian%20Optimization/SMAC/SMAC3%20A%20Versatile%20Bayesian%20Optimization%20Package%20for%20Hyperparameter%20Optimization.pdf)  [BibTex](Classic%20BBO/Bayesian%20Optimization/SMAC/BibTex)|
 
 <p align="right">
 <a href="https://github.com/GMC-DRL/psc4MetaBBO/tree/main#useful-papers-and-source-codes-for-meta-black-box-optimization-metabbo">Back to Top</a>
