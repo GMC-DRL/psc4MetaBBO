@@ -1,0 +1,8 @@
+@inproceedings{bolufe2024deep,
+  title={Deep Reinforcement Learning for Smart Restarts in Exploration-Only Exploitation-Only Hybrid Metaheuristics},
+  author={Boluf{\'e}-R{\"o}hler, Antonio and Xu, Bowen},
+  booktitle={Metaheuristics International Conference},
+  pages={19--34},
+  year={2024},
+  organization={Springer}
+}
